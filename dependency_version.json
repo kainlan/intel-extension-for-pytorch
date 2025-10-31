@@ -31,24 +31,24 @@
   },
   "basekit": {
     "dpcpp-cpp-rt": {
-      "linux": "2025.1",
-      "windows": "2025.1"
+      "linux": "2025.3",
+      "windows": "2025.3"
     },
     "mkl-dpcpp": {
-      "linux": "2025.1",
-      "windows": "2025.1"
+      "linux": "2025.3",
+      "windows": "2025.3"
     },
     "oneccl-devel": {
-      "linux": "2021.15",
+      "linux": "2021.17",
       "windows": "N/A"
     },
     "impi-devel": {
-      "linux": "2021.15",
+      "linux": "2021.17",
       "windows": "N/A"
     },
     "intel-pti": {
-      "linux": "0.12",
-      "windows": "0.12"
+      "linux": "0.14",
+      "windows": "0.14"
     }
   }
 }
